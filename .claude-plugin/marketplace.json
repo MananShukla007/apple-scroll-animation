@@ -1,0 +1,14 @@
+{
+  "name": "apple-scroll-animation",
+  "owner": {
+    "name": "apple-scroll-animation"
+  },
+  "plugins": [
+    {
+      "name": "apple-scroll-animation",
+      "source": "./",
+      "description": "Apple-style scroll-driven animation skill: pinned sections, assemble, word light-up, tilt, expand. Plain HTML/CSS/JS."
+    }
+  ],
+  "description": "A single-plugin marketplace for the apple-scroll-animation skill."
+}

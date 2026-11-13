@@ -1,0 +1,7 @@
+{
+  "name": "apple-scroll-animation",
+  "version": "1.0.0",
+  "description": "Build Apple-style scroll-driven animation (pinned sections, assemble, word light-up, tilt, expand) in plain HTML/CSS/JS with no libraries.",
+  "keywords": ["scroll", "animation", "scrollytelling", "frontend", "apple"],
+  "license": "MIT"
+}
